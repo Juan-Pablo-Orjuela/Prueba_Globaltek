@@ -1,0 +1,7 @@
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\bin\Debug\Prueba_JuanPablo_Globaltek.exe.config
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\bin\Debug\Prueba_JuanPablo_Globaltek.exe
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\bin\Debug\Prueba_JuanPablo_Globaltek.pdb
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\obj\Debug\Prueba_JuanPablo_Globaltek.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\obj\Debug\Prueba_JuanPablo_Globaltek.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\obj\Debug\Prueba_JuanPablo_Globaltek.exe
+C:\Users\migue\source\repos\Prueba_JuanPablo_Globaltek\Prueba_JuanPablo_Globaltek\obj\Debug\Prueba_JuanPablo_Globaltek.pdb
