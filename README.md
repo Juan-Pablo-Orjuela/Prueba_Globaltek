@@ -1,4 +1,4 @@
-# Prueba_Gvv
+# Prueba_Globaltek
 # Ejercicios
 
 A continuación se describen los ejercicios incluidos en este repositorio:
